@@ -111,19 +111,19 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Januarysnow/Curseadelica/main/banner.webp",
       "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/TEST.wabbajack_195f97a9-1c38-46a4-a89c-5427ee6142a3",
+      "download": "https://authored-files.wabbajack.org/Skyrim%20Modding%20Essentials.wabbajack_735be164-739c-468b-9e66-f422389b1a13",
       "machineURL": "test",
       "discordURL": "https://discord.gg/xRrHRsb5e9",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "XQEMN9RF7nM=",
-      "Size": 53707,
-      "NumberOfArchives": 1,
-      "SizeOfArchives": 90051560,
-      "NumberOfInstalledFiles": 1513,
-      "SizeOfInstalledFiles": 290175006,
-      "TotalSize": 286979958919
+      "Hash": "Tq8Wr2xNk3c=",
+      "Size": 28247625,
+      "NumberOfArchives": 333,
+      "SizeOfArchives": 18531258776,
+      "NumberOfInstalledFiles": 21531,
+      "SizeOfInstalledFiles": 20446065494,
+      "TotalSize": 38977324270
     },
     "version": "0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
