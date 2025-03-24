@@ -1,0 +1,133 @@
+[
+  {
+    "title": "Tempus Maledictum VR",
+    "description": "5GB Wabbajack file (itll take a while to download from gallery !) TESTING BUILD : What this is: An Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn\u0027t: A punishing Souls-like, real life survival simulator. I\u0027m here to have fun. Are you?",
+    "author": "JanuarySnow and Lively",
+    "maintainers": [
+      "github/JanuarySnow"
+    ],
+    "game": "skyrimvr",
+    "official": false,
+    "tags": [
+      "Official",
+      "Creation Club",
+      "Anniversary Edition",
+      "Legacy of the Dragonborn",
+      "LotD",
+      "Enairim",
+      "Timelost Dwemer"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/LivelyDismay/tempus-maledictum/main/tempusv7galleryimage.webp",
+      "readme": "https://github.com/JanuarySnow/TempusVR",
+      "download": "https://authored-files.wabbajack.org/Tempus Maledictum VR.wabbajack_289f7807-d7df-4bec-8de1-f92135cc0cdb",
+      "machineURL": "TempusVR",
+      "discordURL": "https://discord.gg/yABEjwB",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "4sLKFVaKgvE=",
+      "Size": 5269071775,
+      "NumberOfArchives": 1803,
+      "SizeOfArchives": 225260101303,
+      "NumberOfInstalledFiles": 479358,
+      "SizeOfInstalledFiles": 381133295476,
+      "TotalSize": 606393396779
+    },
+    "version": "0.40",
+    "dateCreated": "2025-03-10T13:35:06Z",
+    "dateUpdated": "2025-03-18T22:57:37.5956446Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Curseadelica VR",
+    "description": "Biblically accurate SkyrimVR",
+    "author": "JanuarySnow",
+    "maintainers": [
+      "github/JanuarySnow"
+    ],
+    "game": "skyrimvr",
+    "official": false,
+    "tags": [
+      "Overhaul",
+      "LOTD",
+      "Legacy of the Dragonborn",
+      "Simonrim",
+      "official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": true,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Januarysnow/Curseadelica/main/banner.webp",
+      "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Curseadelica%20VR.wabbajack_40282b90-e136-4d15-913c-ee949c94c782",
+      "machineURL": "CurseadelicaVR",
+      "discordURL": "https://discord.gg/xRrHRsb5e9",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "Y012b0s5+xs=",
+      "Size": 783580992,
+      "NumberOfArchives": 1287,
+      "SizeOfArchives": 110724583185,
+      "NumberOfInstalledFiles": 300426,
+      "SizeOfInstalledFiles": 176255375734,
+      "TotalSize": 286979958919
+    },
+    "version": "0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
+  },
+  {
+    "title": "TEST",
+    "description": "test",
+    "author": "JanuarySnow",
+    "maintainers": [
+      "github/JanuarySnow"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Overhaul",
+      "LOTD",
+      "Legacy of the Dragonborn",
+      "Simonrim",
+      "official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": true,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Januarysnow/Curseadelica/main/banner.webp",
+      "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/TEST.wabbajack_195f97a9-1c38-46a4-a89c-5427ee6142a3",
+      "machineURL": "test",
+      "discordURL": "https://discord.gg/xRrHRsb5e9",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "XQEMN9RF7nM=",
+      "Size": 53707,
+      "NumberOfArchives": 1,
+      "SizeOfArchives": 90051560,
+      "NumberOfInstalledFiles": 1513,
+      "SizeOfInstalledFiles": 290175006,
+      "TotalSize": 286979958919
+    },
+    "version": "0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
+  }
+]
